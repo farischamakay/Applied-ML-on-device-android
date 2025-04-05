@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="history">History Result</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="search">Search</string>
+    <string name="intent_cancer_info">Read More about cancer !></string>
+    <string name="empty_image_warning"> Please select at least one Image</string>
+    <string name="error_load_image">Error Show Image</string>
+    <string name="error_show_prediction">Error show the prediction result</string>
+    <string name="save_predict_result">Save Predict Result</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize.
+        See error logs for details</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

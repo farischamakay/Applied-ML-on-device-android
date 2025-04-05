@@ -1,0 +1,6 @@
+{
+    "diffEditor.codeLens": true,
+    "editor.fontSize": 18,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.preferredDarkColorTheme": "Quiet Light"
+}
